@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { motion } from 'framer-motion'
-import { AreaChart } from './Charts'
+import { AreaChart } from '../Charts'
 
 const tabData: {
   label: string

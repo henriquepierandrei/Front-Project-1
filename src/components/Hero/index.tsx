@@ -211,7 +211,7 @@ export function Hero() {
                     </span>
                   </div>
                 </div>
-              ))}
+              )}
             </div>
 
             {/* Bottom bar */}

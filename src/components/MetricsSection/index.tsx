@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { AreaChart, ProgressBar } from './Charts'
+import { AreaChart, ProgressBar } from '../Charts'
 
 export function MetricsSection() {
   return (
@@ -163,7 +163,7 @@ export function MetricsSection() {
                             }}
                           />
                         </div>
-                      ))}
+                      )}
                     </div>
                   </div>
 
