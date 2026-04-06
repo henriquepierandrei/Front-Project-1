@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(npm install:*)",
+      "Bash(npx tsc:*)",
+      "Bash(ls:*)",
+      "Bash(npx vite:*)",
+      "Bash(wc:*)",
+      "Bash(curl -s http://localhost:5173)"
+    ]
+  }
+}
